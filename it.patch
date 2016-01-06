@@ -1,0 +1,26 @@
+#
+# This file is part of UNOFFIAL patch for LXPanel to enable "Close all windows" feature.
+# This is the patch for translate the label "Close all windows" in italian.
+#
+# Copyleft of Vincenzo di Cicco aka 0xNaN <enzodicicco@gmail.com>
+#
+#
+# This patch is free software: you can redistribuite it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This patch is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of 
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this patch. If not, see <http://www.gnu.org/licenses/>.
+#
+#
+473a474,477
+> #. Add "Close all windows" menu item
+> msgid "_Close all windows"
+> msgstr "_Chiudi tutte le finestre"
+> 
